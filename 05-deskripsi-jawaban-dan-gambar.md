@@ -2,4 +2,8 @@ meskipun vm dan container sama-sama virtualisasi namun memiliki perbedaan masing
 
 sedangkan kontainer dengan dibungkus dengan image mengisolasi diri dari kontainer lain sehingga ketika menjalankan kontainer satu, kontainer yang lainnya tidak terpengaruh sehingga memiliki kinerjanya masing-masing.
 
+
+![alt text](https://github.com/asepboy/devops-dumbways-btch3-kl2/blob/main/folder-image-jawaban/05.png)
+
+
 contoh public cloud seperti facebook, twitter, gmail  dsb sedangkan contoh private cloud diantaranya IaaS, PaaS dan SaaS
