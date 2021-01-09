@@ -17,5 +17,4 @@ usermod -G superadmin singa
 menampilkan group :
 cat /etc/group
 
-![alt text}(https://github.com/asepboy/devops-dumbways-btch3-kl2/blob/main/folder-image-jawaban/02.png)
-
+![alt text](https://github.com/asepboy/devops-dumbways-btch3-kl2/blob/main/folder-image-jawaban/02.png)
